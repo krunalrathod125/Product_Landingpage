@@ -1,0 +1,57 @@
+{
+  "brand": "Bhagvat Prasadam",
+  "category": "Farali Namkeen / Fasting Snacks",
+  "origin": "Nilkanthdham Poicha, Gujarat, India",
+  "dietary": "100% Pure Vegetarian, Satvik, Upvas & Vrat Compliant",
+  "oil": "Refined Sunflower Oil (Zero Palm Oil, Zero Dalda)",
+  "salt": "Pure Sendha Namak (Sindhav Rock Salt)",
+  "shelfLife": "45 Days",
+  "products": [
+    {
+      "id": 8609258963093,
+      "handle": "kela-farali-chivda-tikha-spicy-banana-namkeen-snack",
+      "name": "Kela Farali Chivda Tikha",
+      "nameHindi": "केला फराली चिवड़ा तीखा",
+      "nameGujarati": "તીખો કેળા ફરાળી ચેવડો",
+      "flavor": "Tikha (Spicy & Savory Crunch)",
+      "url": "https://www.bhagvatprasadam.com/products/kela-farali-chivda-tikha-spicy-banana-namkeen-snack",
+      "ingredients": [
+        "Raw Banana Sticks",
+        "Sunflower Oil",
+        "Roasted Peanuts",
+        "Sweet Raisins",
+        "Sendha Namak (Rock Salt)",
+        "Spices (Red Chili, Black Pepper, Cumin)"
+      ],
+      "variants": [
+        { "size": "1kg", "price": 425, "mrp": 550, "sku": "Tikho Banana Farali Chevdo 1000 GM.", "id": 45431484252309 },
+        { "size": "800gm", "price": 340, "mrp": 440, "sku": "Tikho Banana Farali Chevdo 800 GM.", "id": 67610045644949 },
+        { "size": "400gm", "price": 170, "mrp": 221, "sku": "Tikho Banana Farali Chevdo 400 GM.", "id": 45385751134357 },
+        { "size": "200gm", "price": 85, "mrp": 110, "sku": "Tikho Banana Farali Chevdo 200 GM.", "id": 45385751167125 }
+      ]
+    },
+    {
+      "id": 8609259323541,
+      "handle": "kela-farali-chivda-meetha-sweet-gujarati-namkeen-snack",
+      "name": "Kela Farali Chivda Meetha",
+      "nameHindi": "केला फराली चिवड़ा मीठा",
+      "nameGujarati": "મીઠો કેળા ફરાળી ચેવડો",
+      "flavor": "Meetha (Sweet & Savory Harmony)",
+      "url": "https://www.bhagvatprasadam.com/products/kela-farali-chivda-meetha-sweet-gujarati-namkeen-snack?variant=45431482876053",
+      "ingredients": [
+        "Raw Banana Sticks",
+        "Sunflower Oil",
+        "Roasted Peanuts",
+        "Sweet Golden Raisins",
+        "Pure Cane Sugar Crystals",
+        "Sendha Namak (Rock Salt)"
+      ],
+      "variants": [
+        { "size": "1kg", "price": 425, "mrp": 550, "sku": "Mitho Banana Farali Chevdo 1000 GM.", "id": 45431482876053 },
+        { "size": "800gm", "price": 340, "mrp": 440, "sku": "Mitho Banana Farali Chevdo 800 GM.", "id": 67610042859669 },
+        { "size": "400gm", "price": 170, "mrp": 221, "sku": "Mitho Banana Farali Chevdo 400 GM.", "id": 45385751691413 },
+        { "size": "200gm", "price": 85, "mrp": 110, "sku": "Mitho Banana Farali Chevdo 200 GM.", "id": 45385751724181 }
+      ]
+    }
+  ]
+}
